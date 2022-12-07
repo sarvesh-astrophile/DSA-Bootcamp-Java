@@ -4,7 +4,7 @@
 ### Basic Java Programs
 ~~1. Area Of Circle Java Program~~
 ~~2. Area Of Triangle~~
-3. Area Of Rectangle Program 
+~~3. Area Of Rectangle Program ~~
 4. Area Of Isosceles Triangle 
 5. Area Of Parallelogram
 6. Area Of Rhombus
