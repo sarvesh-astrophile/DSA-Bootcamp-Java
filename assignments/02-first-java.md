@@ -10,5 +10,5 @@
 ~~6. Input currency in rupees and output in USD.~~
 ~~7. To calculate Fibonacci Series up to n numbers.~~
 ~~8. To find out whether the given String is Palindrome or not.~~
-9. To find Armstrong Number between two given number.
+~~9. To find Armstrong Number between two given number.~~
 
