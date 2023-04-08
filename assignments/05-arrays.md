@@ -30,12 +30,12 @@
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) [optimized https://leetcode.com/problems/reshape-the-matrix/submissions/900265918/]
 ~~26. [Plus One](https://leetcode.com/problems/plus-one/)~~
 ~~27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)~~
-28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) 
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+~~2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)~~
+3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)[https://leetcode.com/problems/spiral-matrix-iii/submissions/930115009/]
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
